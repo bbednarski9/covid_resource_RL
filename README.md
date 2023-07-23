@@ -7,7 +7,7 @@ Juypyter notebooks demonstrating Python implementation of Q-learning (RL) for CO
 
 **Cite as:** Bednarski BP, Singh AD, Jones WM. On collaborative reinforcement learning to optimize the redistribution of critical medical supplies throughout the COVID-19 pandemic. Journal of the American Medical Informatics Association, Volume 28, Issue 4, April 2021, Pages 874–878. (https://doi.org/10.1093/jamia/ocaa324)
 
-**Authors::** Bryan P. Bednarski (bbednarski9), Akash Deep Singh (thecylone), William M. Jones
+**Authors:** Bryan P. Bednarski (bbednarski9), Akash Deep Singh (thecylone), William M. Jones
 
 ## Abstract
 
