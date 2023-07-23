@@ -18,7 +18,7 @@ Health Metrics, Centers for Disease Control and Prevention, and Census Bureau. W
 for data preprocessing, future demand inference, and a redistribution algorithm that can be adopted across
 broad scales and applications.
 Results: The reinforcement learning redistribution algorithm demonstrates performance optimality ranging
-from 93% to 95%. Performance improves consistently with the number of random states participating in exchange, demonstrating average shortage reductions of 78.74 6 30.8% in simulations with 5 states to 93.50 6
+from 93% to 95%. Performance improves consistently with the number of random states participating in exchange, demonstrating average shortage reductions of 78.74 +/- 30.8% in simulations with 5 states to 93.50 +/-
 0.003% with 50 states.
 Conclusions: These findings bolster confidence that reinforcement learning techniques can reliably guide resource allocation for future public health emergencies.
 
