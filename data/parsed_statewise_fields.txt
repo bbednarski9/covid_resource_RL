@@ -1,0 +1,35 @@
+Current Data Fields:
+
+date: pd.Timestamp by day
+allbed_mean: Mean covid beds needed by day
+allbed_lower: Lower uncertainty bound of covid beds needed by day
+allbed_upper: Upper uncertainty bound of covid beds needed by day
+ICUbed_mean: Mean ICU covid beds needed by day
+ICUbed_lower: Lower uncertainty bound of ICU covid beds needed by day
+ICUbed_upper: Upper uncertainty bound of ICU covid beds needed by day
+InvVen_mean: Mean invasive ventilation needed by day
+InvVen_lower: Lower uncertainty bound of invasive ventilation needed by day
+InvVen_upper: Upper uncertainty bound of invasive ventilation needed by day
+deaths_mean: Mean daily covid deaths
+deaths_lower: Lower uncertainty bound of daily covid deaths
+deaths_upper: Upper uncertainty bound of daily covid deaths
+admis_mean: Mean hospital admissions by day
+admis_lower: Lower uncertainty bound of hospital admissions by day
+admis_upper: Upper uncertainty bound of hospital admissions by day
+newICU_mean: Mean number of new people going to the ICU by day
+newICU_lower: Lower uncertainty bound of the number of new people going to the ICU by day
+newICU_upper: Upper uncertainty bound of the number of new people going to the ICU by day
+totdea_mean: Mean cumulative covid deaths
+totdea_lower: Lower uncertainty bound of cumulative covid deaths
+totdea_upper: Upper uncertainty bound of cumulative covid deaths
+bedover_mean: [covid all beds needed] - ([total bed capacity] - [average all bed usage])
+bedover_lower: Lower uncertainty bound of bedover (above)
+bedover_upper: Upper uncertainty bound of bedover (above)
+icuover_mean: [covid ICU beds needed] - ([total ICU capacity] - [average ICU bed usage])
+icuover_lower: Lower uncertainty bound of icuover (above)
+icuover_upper: Upper uncertainty bound of icuover (above)
+est_asthma_perc: PolicyMap data estimating percentage of population with asthma
+est_COPD_perc: PolicyMap data estimating percentage of population with chronic obstructive pulmonary disease (COPD)
+est_diabetes_perc: PolicyMap data estimating percentage of population with diabetes
+est_heartDisease_perc: PolicyMap data estimating percentage of population with heartDisease
+Observed_DOA_CDC: CDC data, reported bi-weekly, deaths above average
