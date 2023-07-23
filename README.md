@@ -22,5 +22,9 @@ from 93% to 95%. Performance improves consistently with the number of random sta
 0.003% with 50 states.
 Conclusions: These findings bolster confidence that reinforcement learning techniques can reliably guide resource allocation for future public health emergencies.
 
+![System Block Diagram](https://github.com/bbednarski9/covid_resource_RL/blob/main/figures/system_block.png?raw=true)
 
+![Distribution Example](https://github.com/bbednarski9/covid_resource_RL/blob/main/figures/distribution.png?raw=true)
+
+![Optimallity](https://github.com/bbednarski9/covid_resource_RL/blob/main/figures/optimallity.png?raw=true)
 
